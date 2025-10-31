@@ -8,17 +8,27 @@ This respiratory is licensed under CC BY-NC-ND 4.0
 ## Repository navigation
 
 #### Conda environment:
-     250914_hemp2_project_env.yml [Operating system: Mac OS]
+     250914_hemp2_project_env.yml           [Operating system: Mac OS]
 
 #### Data:
-    hemp-gcms-original.xlsx [Complete metabolites detected by GC/MS]
+    hemp-gcms-original.xlsx                 [Complete metabolites detected by GC/MS]
     hemp-gcms-original-transpose.xlsx
-    hemp-gcms-threshold10.xlsx [Major metabolites detected by GC/MS]
+    hemp-gcms-threshold10.xlsx              [Major metabolites detected by GC/MS]
     hemp-gcms-threshold10-transpose.xlsx
-    data/hemp-gcms-top4-transpose.xlsx [Top 4 highest metabolites detected by GC/MS]
+    data/hemp-gcms-top4-transpose.xlsx      [Top 4 highest metabolites detected by GC/MS]
 
 ### Original data analysis:
-    original-hca.ipynb
-    original-pca.ipynb
-    
+    original-hca.ipynb                      [hierarchical clustering analysis]
+    original-pca.ipynb                      [principal component analysis]
+    original-pls-da.ipynb                   [partial least squares discriminant analysis]
+
+### Threshold10 data analysis
+     threshold10-hca.ipyn                   [hierarchical clustering analysis]
+     threshold10-pca.ipynb                  [principal component analysis]
+     threshold10-pls-da.ipynb               [partial least squares discriminant analysis]
+     threshold10-metabolic-features-corr-matrix.ipynb     [correlation matrix]
+
+### Top4 data analysis
+     top4-pca.ipynb                         [principal component analysis]
+     top4-pls-da4.ipynb                     [partial least squares discriminant analysis]
     
