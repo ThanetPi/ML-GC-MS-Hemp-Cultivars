@@ -18,6 +18,7 @@ This respiratory is licensed under CC BY-NC-ND 4.0
     data/hemp-gcms-top4-transpose.xlsx [Top 4 highest metabolites detected by GC/MS]
 
 ### Original data analysis:
-    original-HCA.ipynb
+    original-hca.ipynb
     original-pca.ipynb
+    
     
