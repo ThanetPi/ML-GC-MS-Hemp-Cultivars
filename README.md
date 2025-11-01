@@ -18,7 +18,7 @@ There are five folders in this repository, as shown below.
     hemp-gcms-original-transpose.xlsx
     hemp-gcms-threshold10.xlsx              [Major metabolites detected by GC/MS]
     hemp-gcms-threshold10-transpose.xlsx
-    data/hemp-gcms-top4-transpose.xlsx      [Top 4 highest metabolites detected by GC/MS]
+    data/hemp-gcms-selected4-transpose.xlsx      [Top 4 highest metabolites detected by GC/MS]
 
 ### Original data analysis:
     original-hca.ipynb                      [hierarchical clustering analysis]
@@ -32,8 +32,8 @@ There are five folders in this repository, as shown below.
      threshold10-metabolic-features-corr-matrix.ipynb     [correlation matrix]
 
 ### Top4 data analysis
-     top4-pca.ipynb                         [principal component analysis]
-     top4-pls-da4.ipynb                     [partial least squares discriminant analysis]
+     selected4-pca.ipynb                         [principal component analysis]
+     selected4-pls-da4.ipynb                     [partial least squares discriminant analysis]
 
 ----------
 This respiratory is licensed under CC BY-NC-ND 4.0
