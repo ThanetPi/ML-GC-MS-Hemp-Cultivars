@@ -8,6 +8,9 @@ This respiratory is used for depositing supplementary and relevant data, includi
 
 DOI: [/10.3390/foods14213739](https://doi.org/10.3390/foods14213739)
 
+![](/Article_Banner_MDPI_foods-14-03739.png)
+
+
 
 ## Repository navigation
 
