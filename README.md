@@ -1,4 +1,7 @@
 # ML-GC-MS-Hemp-Cultivars
+&nbsp;
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17505682.svg)](https://doi.org/10.5281/zenodo.17505681)
 
 This respiratory is used for depositing supplementary and relevant data, including Python code, from the scientific article entitled, "Insights into Thai and Foreign Hemp Seed Oil and Extracts’ GC/MS Data Re-Analysis Through Learning Algorithms and Anti-Aging Properties."
 &nbsp;
